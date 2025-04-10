@@ -72,16 +72,6 @@
 
           <div class="info-item">
             <div class="info-icon">
-              <span class="material-icons">phone</span>
-            </div>
-            <div class="info-content">
-              <h3>Phone</h3>
-              <p>(010) 12345678</p>
-            </div>
-          </div>
-
-          <div class="info-item">
-            <div class="info-icon">
               <span class="material-icons">email</span>
             </div>
             <div class="info-content">
@@ -101,7 +91,7 @@
             </div>
           </div>
 
-          <div class="social-media">
+          <!-- <div class="social-media">
             <h3>Follow us</h3>
             <div class="social-icons">
               <a href="#" class="social-icon">
@@ -114,7 +104,7 @@
                 <img src="/images/douyin.png" alt="Douyin">
               </a>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
 

@@ -4,7 +4,7 @@
       <div class="header-content">
         <div class="logo">
           <router-link to="/">
-            <h1>FRESH FRESH</h1>
+            <img src="../assets/logo.svg" alt="Fresh Fresh" class="logo-image">
           </router-link>
         </div>
         <nav class="nav">
@@ -58,11 +58,10 @@ export default {
   padding: 15px 0;
 }
 
-.logo h1 {
-  font-size: 24px;
-  font-weight: bold;
-  color: #3498db;
-  margin: 0;
+.logo-image {
+  height: 50px;
+  width: auto;
+  display: block;
 }
 
 .nav-list {
