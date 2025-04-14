@@ -21,7 +21,7 @@
         </div>
       </div>
       <div class="footer-bottom">
-        <p>&copy; Copyright © {{ currentYear }} | Powered by Data Network Solutions (SMC-Private) Limited </p>
+        <p>Copyright © {{ currentYear }} Fresh Fresh Store. Powered by Data Tech Solutions (SMC-Private) Limited</p>
       </div>
     </div>
   </footer>

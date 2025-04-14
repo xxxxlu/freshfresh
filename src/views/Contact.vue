@@ -62,16 +62,6 @@
 
           <div class="info-item">
             <div class="info-icon">
-              <span class="material-icons">location_on</span>
-            </div>
-            <div class="info-content">
-              <h3>Address</h3>
-              <p>No. 28, Zhongguancun Street, Haidian District, Beijing</p>
-            </div>
-          </div>
-
-          <div class="info-item">
-            <div class="info-icon">
               <span class="material-icons">email</span>
             </div>
             <div class="info-content">
@@ -90,21 +80,6 @@
               <p>Saturday to Sunday: 10:00 - 16:00</p>
             </div>
           </div>
-
-          <!-- <div class="social-media">
-            <h3>Follow us</h3>
-            <div class="social-icons">
-              <a href="#" class="social-icon">
-                <img src="/images/weibo.png" alt="Weibo">
-              </a>
-              <a href="#" class="social-icon">
-                <img src="/images/wechat.png" alt="WeChat">
-              </a>
-              <a href="#" class="social-icon">
-                <img src="/images/douyin.png" alt="Douyin">
-              </a>
-            </div>
-          </div> -->
         </div>
       </div>
 
